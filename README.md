@@ -8,7 +8,10 @@ The dataset is a collection of information about various Spanish wines
 
 Source: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
-**insert data dictionary
+Data Dictionary
+![Example Image](.datadictionary)
+
+
 
 
 **
