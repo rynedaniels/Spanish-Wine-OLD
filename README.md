@@ -9,15 +9,15 @@ The dataset is a collection of information about various Spanish wines
 Source: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 Data Dictionary
-[![Image](.datadictionary)]
+[[![Image](.datadictionary)]](https://github.com/rynedaniels/project_2/blob/d932a85d90a5c98a69028d7a2f2bef1a16ed9c07/datadictionary.png)
 
 
 ## Expoloratory Analysis
-[![Image](.exploratory_analysis_1)]
+[explorary_analysis_1.png](https://github.com/rynedaniels/project_2/blob/d932a85d90a5c98a69028d7a2f2bef1a16ed9c07/explorary_analysis_1.png)
 
 Insight: The limited number of wine reviews before 2003 could indicate different factors, such as a growing interest in the Spanish wine industry after 2003. This intriguing trend is worth further investigation, as understanding the reasons behind this surge could help our stakeholders make informed decisions when selecting wines to introduce to the new market and capitalize on emerging trends.
 
-[![Image](.exploratory_analysis_2)]
+[[![Image](.exploratory_analysis_2)]](https://github.com/rynedaniels/project_2/blob/d932a85d90a5c98a69028d7a2f2bef1a16ed9c07/exploratory_analysis_2.png)
 
 Insight: The wine ratings in this dataset exhibit a significant imbalance, with the vast majority of wines scoring 4.5 and below. This skewed distribution emphasizes the overrepresentation of lower-rated wines, highlighting the need for caution when drawing conclusions or making predictions based on this dataset.
 
