@@ -43,4 +43,4 @@ Increased Accuracy: The Accuracy of the Tuned GradientBoost model increased from
 Business Solution: In conclusion, selecting the Tuned GradientBoost model will enable the business to make more accurate predictions. This can help your business optimize marketing efforts, inventory management, and investments in the most promising wines, ultimately leading to higher sales, better customer satisfaction, and increased profitability.
 
 For any additional questions, please contact: 
-[Contact Me](mailto:rynedaniels@gmail.com)
+- [Contact Me](mailto:rynedaniels@gmail.com)
