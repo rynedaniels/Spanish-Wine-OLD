@@ -22,7 +22,7 @@ Insight: The limited number of wine reviews before 2003 could indicate different
 
 Insight: The data reveals that there is generally an inverse relationship between the mean body and mean acidity scores across wine ratings. For example, at a rating of 4.2, the mean body score is low while the mean acidity score is high, whereas at a rating of 4.9, the mean body score is high and the mean acidity score is low.
 
-*Model Selection, Justification, and Conclusion*
+# **Model Selection, Justification, and Conclusion**
 
 ![model_selection](https://user-images.githubusercontent.com/110209769/232350625-d278c8ae-6b6a-4281-842b-0cca81e20644.png)
 
@@ -32,15 +32,15 @@ The Tuned GradientBoost model outperforms the original Gradient Boosting Classif
 
 Benefits of using the Tuned GradientBoost Classifier:
 
-Higher Precision: With an increase in Precision from 0.645 to 0.667, the Tuned GradientBoost model is more accurate in predicting wines that will receive positive ratings. This helps your business focus on the wines that are most likely to succeed in the new market, reducing the risk of investing in poorly received wines.
+*Higher Precision:* With an increase in Precision from 0.645 to 0.667, the Tuned GradientBoost model is more accurate in predicting wines that will receive positive ratings. This helps your business focus on the wines that are most likely to succeed in the new market, reducing the risk of investing in poorly received wines.
 
-Improved Recall: The increase in Recall from 0.566 to 0.637 means that the Tuned GradientBoost model is better at identifying wines with true positive ratings. This allows your business to capture a larger share of the high-quality wines, which can result in increased demand and customer satisfaction.
+*Improved Recall:* The increase in Recall from 0.566 to 0.637 means that the Tuned GradientBoost model is better at identifying wines with true positive ratings. This allows your business to capture a larger share of the high-quality wines, which can result in increased demand and customer satisfaction.
 
-Better F1 Score: The F1 Score, a measure that balances Precision and Recall, increased from 0.595 to 0.643. This indicates that the Tuned GradientBoost model provides a better overall performance in predicting wine ratings, ensuring that your business can make more accurate and informed decisions.
+*Better F1 Score:* The F1 Score, a measure that balances Precision and Recall, increased from 0.595 to 0.643. This indicates that the Tuned GradientBoost model provides a better overall performance in predicting wine ratings, ensuring that your business can make more accurate and informed decisions.
 
-Increased Accuracy: The Accuracy of the Tuned GradientBoost model increased from 0.778 to 0.788, meaning that a higher percentage of its predictions are correct. This can lead to more effective marketing strategies and inventory management for your wine distribution business.
+*Increased Accuracy:* The Accuracy of the Tuned GradientBoost model increased from 0.778 to 0.788, meaning that a higher percentage of its predictions are correct. This can lead to more effective marketing strategies and inventory management for your wine distribution business.
 
-Business Solution: In conclusion, selecting the Tuned GradientBoost model will enable the business to make more accurate predictions. This can help your business optimize marketing efforts, inventory management, and investments in the most promising wines, ultimately leading to higher sales, better customer satisfaction, and increased profitability.
+**Business Solution:** In conclusion, selecting the Tuned GradientBoost model will enable the business to make more accurate predictions. This can help your business optimize marketing efforts, inventory management, and investments in the most promising wines, ultimately leading to higher sales, better customer satisfaction, and increased profitability.
 
 For any additional questions, please contact: 
 - [Contact Me](mailto:rynedaniels@gmail.com)
