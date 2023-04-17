@@ -11,7 +11,7 @@ Source: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 Data Dictionary
 
-![datadictionary](https://user-images.githubusercontent.com/110209769/231904639-38a2f519-a09b-4b3f-8446-69766a39d3a7.png)
+![datadictionary](https://user-images.githubusercontent.com/110209769/232352255-6b16764a-f3d6-4241-9848-0417f67b4779.png)
 
 ## Expoloratory Analysis
 ![explorary_analysis_1](https://user-images.githubusercontent.com/110209769/231904659-e8e288cf-fd86-421a-89a3-712b9849b130.png)
